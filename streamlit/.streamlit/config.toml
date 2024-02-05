@@ -1,0 +1,13 @@
+[theme]
+base="light"
+primaryColor="rgb(255, 172, 28)"
+backgroundColor="#fff"
+secondaryBackgroundColor="#eee"
+textColor="#000"
+font="monospace"
+
+[client]
+toolbarMode = "minimal"
+
+[global]
+developmentMode = false
