@@ -10,4 +10,6 @@ git remote add origin git@github.com:user/repo.git
 git remote set-url origin git@github.com:user/repo.git
 
 git push -u origin main
+
+git stash pop # undo last git stash
 ```
