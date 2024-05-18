@@ -4,7 +4,5 @@ export default {
   semi: true,
   trailingComma: "none",
   endOfLine: "lf",
-  tabWidth: 2,
-  trimTrailingWhitespace: true,
-  insertFinalNewline: true,
+  tabWidth: 2
 };
